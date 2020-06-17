@@ -7,6 +7,13 @@
 class Mastermind():
 
     '''
+        Initializes a mastermind as a color
+        'red', or 'blue'
+    '''
+    def __init__(self, color):
+        pass
+
+    '''
         Given a game state, a mastermind returns a single english
         word as a clue, and a number of words the clue pertains to.
     
